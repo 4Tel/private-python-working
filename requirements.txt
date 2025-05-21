@@ -1,0 +1,14 @@
+ipykernel
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+
+# plotly
+plotly
+nbformat
+
+# ase
+ase
+nglview
